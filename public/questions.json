@@ -1,0 +1,1374 @@
+{
+  "quizzes": [
+    {
+      "id": "english-complete-test",
+      "title": "Complete English Proficiency Test",
+      "description": "29 questions covering grammar, vocabulary, sentence ordering, headlines, and reading comprehension",
+      "totalQuestions": 29,
+      "parts": [
+        {
+          "id": "part1",
+          "name": "Part 1: Grammar & Vocabulary",
+          "description": "18 questions testing grammar and vocabulary skills",
+          "startQuestion": 1,
+          "endQuestion": 18
+        },
+        {
+          "id": "part2",
+          "name": "Part 2: Put the sentences in the correct order",
+          "description": "4 questions testing sentence ordering skills",
+          "startQuestion": 19,
+          "endQuestion": 22
+        },
+        {
+          "id": "part3",
+          "name": "Part 3: Find the headline",
+          "description": "4 questions testing headline selection skills",
+          "startQuestion": 23,
+          "endQuestion": 26
+        },
+        {
+          "id": "part4",
+          "name": "Part 4: Reading Comprehension",
+          "description": "3 questions testing reading comprehension skills",
+          "startQuestion": 27,
+          "endQuestion": 29
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "type": "fillgap",
+          "title": "Grammar & Vocabulary",
+          "content": {
+            "text": "For _______ class you need to bring paints, pencils and paper"
+          },
+          "options": [
+            {
+              "id": "the_first",
+              "text": "the first"
+            },
+            {
+              "id": "a_first",
+              "text": "a first"
+            },
+            {
+              "id": "first",
+              "text": "first"
+            }
+          ],
+          "correctAnswer": "the_first",
+          "explanation": "\"The first\" adalah bilangan ordinal yang digunakan dengan artikel pasti the untuk merujuk pada kelas spesifik atau sesi awal, yang sesuai dengan konteks membawa perlengkapan tertentu",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "vocab": [
+            {
+              "word": "paints",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "word": "the first",
+              "definition": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "word": "paper",
+              "definition": "Lorem ipsum dolor sit amet."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "type": "fillgap",
+          "title": "Grammar & Vocabulary",
+          "content": {
+            "text": "I start work at 8 a.m., so I need to _______ the bus at 7 .30 a.m. tomorrow"
+          },
+          "options": [
+            {
+              "id": "go in",
+              "text": "go in"
+            },
+            {
+              "id": "get_on",
+              "text": "get on"
+            },
+            {
+              "id": "pick_up",
+              "text": "pick up"
+            }
+          ],
+          "correctAnswer": "get_on",
+          "explanation": "\"Get on\" adalah frasa kerja (phrasal verb) yang tepat yang berarti menaiki atau naik ke kendaraan umum besar seperti bus, kereta, atau pesawat",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "vocab": [
+            {
+              "word": "paints",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "paper",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "type": "fillgap",
+          "title": "Grammar & Vocabulary",
+          "content": {
+            "text": "I don't like shopping in December. Shops are usually _______ crowded"
+          },
+          "options": [
+            {
+              "id": "some",
+              "text": "some"
+            },
+            {
+              "id": "so",
+              "text": "so"
+            },
+            {
+              "id": "lots",
+              "text": "lots"
+            }
+          ],
+          "correctAnswer": "so",
+          "explanation": "\"So\" adalah kata keterangan (adverb) yang digunakan untuk mengintensifkan kata sifat (crowded), berfungsi seperti very atau extremely (sangat)",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "vocab": [
+            {
+              "word": "paints",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "paper",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "type": "fillgap",
+          "title": "Grammar & Vocabulary",
+          "content": {
+            "text": "We are currently _______ at full capacity, so I'm afraid we cannot take any more orders until further notice"
+          },
+          "options": [
+            {
+              "id": "handling",
+              "text": "handling"
+            },
+            {
+              "id": "distributing",
+              "text": "distributing"
+            },
+            {
+              "id": "operating",
+              "text": "operating"
+            }
+          ],
+          "correctAnswer": "operating",
+          "explanation": "Kolokasi yang benar adalah \"operating at full capacity\" (beroperasi dengan kapasitas penuh), yang berarti bekerja pada batas maksimum",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "vocab": [
+            {
+              "word": "paints",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "paper",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "type": "fillgap",
+          "title": "Grammar & Vocabulary",
+          "content": {
+            "text": "Health and safety procedures _______ followed adequately, and this is an area we must improve upon as soon as possible"
+          },
+          "options": [
+            {
+              "id": "haven_t_been",
+              "text": "haven't been"
+            },
+            {
+              "id": "weren_t_being",
+              "text": "weren't being"
+            },
+            {
+              "id": "wouldn_t_have_been",
+              "text": "wouldn't have been"
+            }
+          ],
+          "correctAnswer": "haven_t_been",
+          "explanation": "Konteksnya (we must improve upon) menunjukkan bahwa kegagalan untuk mengikuti prosedur adalah masalah yang berlanjut hingga saat ini, yang memerlukan Present Perfect Passive (haven't been followed)",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "vocab": [
+            {
+              "word": "paints",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "paper",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "type": "fillgap",
+          "title": "Grammar & Vocabulary",
+          "content": {
+            "text": "Completely banning cars from the town centre has had such a positive _______ on the town. Not to mention the improvement in air quality"
+          },
+          "options": [
+            {
+              "id": "implement",
+              "text": "implement"
+            },
+            {
+              "id": "impression",
+              "text": "impression"
+            },
+            {
+              "id": "impact",
+              "text": "impact"
+            }
+          ],
+          "correctAnswer": "impact",
+          "explanation": "\"Impact\" (dampak/pengaruh) adalah kata benda yang tepat untuk menggambarkan efek positif pada suatu tempat. Frasa yang umum adalah \"have an impact on.\"",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "vocab": [
+            {
+              "word": "paints",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "paper",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "type": "fillgap",
+          "title": "Grammar & Vocabulary",
+          "content": {
+            "text": "We had a smooth trip because David _______ all of the hotel arrangements for a two-week trip around South America"
+          },
+          "options": [
+            {
+              "id": "observed",
+              "text": "observed"
+            },
+            {
+              "id": "cancelled",
+              "text": "cancelled"
+            },
+            {
+              "id": "handled",
+              "text": "handled"
+            }
+          ],
+          "correctAnswer": "handled",
+          "explanation": "\"Handled\" (menangani/mengurus) adalah kata kerja yang paling sesuai untuk menggambarkan seseorang yang berhasil mengelola atau mengurus semua persiapan perjalanan",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "vocab": [
+            {
+              "word": "paints",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "paper",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "type": "fillgap",
+          "title": "Grammar & Vocabulary",
+          "content": {
+            "text": "Sara knew that the meeting was going to go badly as soon as she _______ the client's face. It was obvious that he wasn't interested in what she had to say"
+          },
+          "options": [
+            {
+              "id": "sees",
+              "text": "sees"
+            },
+            {
+              "id": "saw",
+              "text": "saw"
+            },
+            {
+              "id": "was_seeing",
+              "text": "was seeing"
+            }
+          ],
+          "correctAnswer": "saw",
+          "explanation": "Klausa utama (knew) menggunakan Past Simple. Tindakan melihat wajah adalah tindakan tunggal yang terjadi di masa lalu, memerlukan Past Simple (saw)",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "vocab": [
+            {
+              "word": "paints",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "paper",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "type": "fillgap",
+          "title": "Grammar & Vocabulary",
+          "content": {
+            "text": "You _______ bother going to see that client today. I spoke to him on the phone this morning instead"
+          },
+          "options": [
+            {
+              "id": "can_t",
+              "text": "can't"
+            },
+            {
+              "id": "needn_t",
+              "text": "needn't"
+            },
+            {
+              "id": "mustn_t",
+              "text": "mustn't"
+            }
+          ],
+          "correctAnswer": "needn_t",
+          "explanation": "\"Needn't\" (kependekan dari need not) berarti 'tidak perlu.' Ini menunjukkan bahwa perjalanan tersebut tidak diperlukan karena tugas tersebut sudah selesai",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "type": "fillgap",
+          "title": "Grammar & Vocabulary",
+          "content": {
+            "text": "It's easy to start going to the gym every week. What's difficult is _______ the effort long enough to see any change"
+          },
+          "options": [
+            {
+              "id": "managing",
+              "text": "managing"
+            },
+            {
+              "id": "maintaining",
+              "text": "maintaining"
+            },
+            {
+              "id": "preserving",
+              "text": "preserving"
+            }
+          ],
+          "correctAnswer": "maintaining",
+          "explanation": "\"Maintaining the effort\" (mempertahankan upaya) adalah kolokasi yang benar, yang berarti melanjutkan upaya secara konsisten",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "type": "conversa",
+          "title": "Conversation Practice",
+          "icon1_path": "/emojis/Confounded Face.webp",
+          "icon2_path": "/emojis/Automobile.webp",
+          "content": {
+            "part1": "Sorry, what seems to be the problem?",
+            "part2": "There's too much traffic on the street outside. I wanted a _______ room"
+          },
+          "options": [
+            {
+              "id": "quiet",
+              "text": "quiet"
+            },
+            {
+              "id": "warm",
+              "text": "warm"
+            },
+            {
+              "id": "bright",
+              "text": "bright"
+            }
+          ],
+          "correctAnswer": "quiet",
+          "explanation": "Dalam konteks keluhan tentang \"traffic\" (lalu lintas), kata sifat yang tepat untuk mendeskripsikan ruangan yang diinginkan adalah quiet (tenang/tidak bising), yang merupakan antonim dari bising atau berisik",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "vocab": [
+            {
+              "word": "traffic",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "quiet",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "type": "conversa",
+          "title": "Conversation Practice",
+          "icon1_path": "/emojis/Folded Hands.webp",
+          "icon2_path": "/emojis/Check Mark Button.webp",
+          "content": {
+            "part1": "Can I go thirty minutes early?",
+            "part2": "Yes, _______. We're nearly finished"
+          },
+          "options": [
+            {
+              "id": "really",
+              "text": "really"
+            },
+            {
+              "id": "alright",
+              "text": "alright"
+            },
+            {
+              "id": "correct",
+              "text": "correct"
+            }
+          ],
+          "correctAnswer": "alright",
+          "explanation": "Kata \"alright\" (atau \"all right\") digunakan untuk memberikan izin atau persetujuan secara informal, yang sesuai dengan konteks pemberian izin untuk pulang lebih awal",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "vocab": [
+            {
+              "word": "paints",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "paper",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "type": "conversa",
+          "title": "Conversation Practice",
+          "icon1_path": "/emojis/Tear Off Calendar.webp",
+          "icon2_path": "/emojis/Airplane.webp",
+          "content": {
+            "part1": "I'll see you in the meeting tomorrow",
+            "part2": "In fact, I won't be there _______ I'm going to the sales conference in Hong Kong"
+          },
+          "options": [
+            {
+              "id": "when",
+              "text": "when"
+            },
+            {
+              "id": "so",
+              "text": "so"
+            },
+            {
+              "id": "as",
+              "text": "as"
+            }
+          ],
+          "correctAnswer": "as",
+          "explanation": "Kata \"as\" berfungsi sebagai konjungsi yang bermakna \"karena\" atau \"sebab,\" memberikan alasan mengapa pembicara tidak akan hadir di rapat (\"I won't be there because I'm going...\")",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "type": "conversa",
+          "title": "Conversation Practice",
+          "icon1_path": "/emojis/Newspaper.webp",
+          "icon2_path": "/emojis/Graduation Cap.webp",
+          "content": {
+            "part1": "Did you hear about Sun's new job in marketing?",
+            "part2": "Yes. Based on her prior _______ at university, it sounds perfect for her"
+          },
+          "options": [
+            {
+              "id": "appearance",
+              "text": "appearance"
+            },
+            {
+              "id": "intelligence",
+              "text": "intelligence"
+            },
+            {
+              "id": "experience",
+              "text": "experience"
+            }
+          ],
+          "correctAnswer": "experience",
+          "explanation": "Untuk kualifikasi pekerjaan (job), kata benda yang paling relevan yang didapatkan di universitas adalah \"experience\" (pengalaman), yang menunjukkan pengetahuan atau keterampilan yang diperoleh melalui praktik",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "type": "conversa",
+          "title": "Conversation Practice",
+          "icon1_path": "/emojis/Beating Heart.webp",
+          "icon2_path": "/emojis/Partying Face.webp",
+          "content": {
+            "part1": "Sabrina and Predip have just got _______!",
+            "part2": "That's fantastic news! When are they thinking of having the wedding?"
+          },
+          "options": [
+            {
+              "id": "anxious",
+              "text": "anxious"
+            },
+            {
+              "id": "jealous",
+              "text": "jealous"
+            },
+            {
+              "id": "engaged",
+              "text": "engaged"
+            }
+          ],
+          "correctAnswer": "engaged",
+          "explanation": "Konteks percakapan mengacu pada \"the wedding\" (pernikahan), sehingga status yang mendahului pernikahan adalah \"engaged\" (bertunangan)",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "type": "conversa",
+          "title": "Conversation Practice",
+          "icon1_path": "/emojis/Left Luggage.webp",
+          "icon2_path": "/emojis/Handbag.webp",
+          "content": {
+            "part1": "Where can I get a recyclable shopping bag?",
+            "part2": "You can ask the cashier at the _______. She'll be happy to sell you one"
+          },
+          "options": [
+            {
+              "id": "checkout",
+              "text": "checkout"
+            },
+            {
+              "id": "board",
+              "text": "board"
+            },
+            {
+              "id": "stand",
+              "text": "stand"
+            }
+          ],
+          "correctAnswer": "checkout",
+          "explanation": "Seorang \"cashier\" (kasir) bekerja di \"checkout\" (tempat pembayaran) di toko, yang merupakan tempat yang tepat untuk membeli tas belanja",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "type": "conversa",
+          "title": "Conversation Practice",
+          "icon1_path": "/emojis/Beaming Face With Smiling Eyes.webp",
+          "icon2_path": "/emojis/Tear Off Calendar.webp",
+          "content": {
+            "part1": "I'm looking for Mr Davies. Do you know if he's gone home already?",
+            "part2": "No, he _______ have left yet. He's got a meeting in twenty minutes"
+          },
+          "options": [
+            {
+              "id": "shan_t",
+              "text": "shan't"
+            },
+            {
+              "id": "needn_t",
+              "text": "needn't"
+            },
+            {
+              "id": "couldn_t",
+              "text": "couldn't"
+            }
+          ],
+          "correctAnswer": "couldn_t",
+          "explanation": "\"Couldn't have left\" digunakan untuk menyatakan deduksi logis yang kuat bahwa sesuatu tidak mungkin terjadi di masa lalu, berdasarkan fakta yang ada (memiliki rapat 20 menit lagi)",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "type": "conversa",
+          "title": "Conversation Practice",
+          "icon1_path": "/emojis/Airplane.webp",
+          "icon2_path": "/emojis/Confounded Face.webp",
+          "content": {
+            "part1": "Oh, Predip, you're back! How were your holidays? Did you have a nice time?",
+            "part2": "Oh, definitely! I wish I _______ on that island for a bit longer, to be honest!"
+          },
+          "options": [
+            {
+              "id": "could_have_stayed",
+              "text": "could have stayed"
+            },
+            {
+              "id": "needn_t_stay",
+              "text": "needn't stay"
+            },
+            {
+              "id": "should_stay",
+              "text": "should stay"
+            }
+          ],
+          "correctAnswer": "could_have_stayed",
+          "explanation": "Struktur \"I wish I + past perfect\" digunakan untuk menyatakan penyesalan atau keinginan tentang situasi di masa lalu. \"Could have stayed\" menunjukkan penyesalan karena tidak bisa tinggal lebih lama",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "vocab": [
+            {
+              "word": "paints",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "paper",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "type": "ordering",
+          "title": "Put the sentences in the correct order",
+          "content": {
+            "text": "Job applications: \nFor job applications, you need to know professional people who will be happy to recommend you"
+          },
+          "options": [
+            {
+              "id": "s1",
+              "text": "In some cases, you may need to attach a CV and an introduction letter as well"
+            },
+            {
+              "id": "s2",
+              "text": "Therefore, it's a good idea to prepare these documents before you start looking for work"
+            },
+            {
+              "id": "s3",
+              "text": "This is because application forms usually require you to give details of at least two people who can provide references"
+            }
+          ],
+          "correctAnswer": [
+            "s3",
+            "s2",
+            "s1"
+          ],
+          "vocab": [
+            {
+              "word": "application",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "references",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "type": "ordering",
+          "title": "Put the sentences in the correct order",
+          "content": {
+            "text": "Using stadiums for events: \nMost cities and large towns usually have a football stadium, maybe even more than one"
+          },
+          "options": [
+            {
+              "id": "s1",
+              "text": "That's why I think that governments should use stadiums for more than matches, as otherwise they're completely wasted"
+            },
+            {
+              "id": "s2",
+              "text": "The rest of the time, stadiums just sit there, empty, with no one using them"
+            },
+            {
+              "id": "s3",
+              "text": "Obviously, this is where football matches usually take place, but these don't happen every single day of the week"
+            }
+          ],
+          "correctAnswer": [
+            "s3",
+            "s2",
+            "s1"
+          ],
+          "vocab": [
+            {
+              "word": "paints",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "pencils",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "paper",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "type": "ordering",
+          "title": "Put the sentences in the correct order",
+          "content": {
+            "text": "Studying a course: \nAll of our teachers are experts and have years of experience teaching and helping students with their work"
+          },
+          "options": [
+            {
+              "id": "s1",
+              "text": "Rather than the usual 'Well done', your teacher will give you a lot of helpful comments"
+            },
+            {
+              "id": "s2",
+              "text": "These suggestions will show you exactly how you can improve your writing in the future"
+            },
+            {
+              "id": "s3",
+              "text": "After completing an essay or other written exercise, your teacher will mark it for you"
+            }
+          ],
+          "correctAnswer": [
+            "s3",
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "type": "ordering",
+          "title": "Put the sentences in the correct order",
+          "content": {
+            "text": "Electric cars: \nElectric cars have not been a popular option for many drivers due to cost and choice"
+          },
+          "options": [
+            {
+              "id": "s1",
+              "text": "However, the wide range of new electric cars for drivers is growing fast and will continue to do so"
+            },
+            {
+              "id": "s2",
+              "text": "Both these changes mean sales are likely to increase rapidly in the next few years"
+            },
+            {
+              "id": "s3",
+              "text": "At the same time, the cost of buying an electric car is decreasing, which makes these cars easier to afford"
+            }
+          ],
+          "correctAnswer": [
+            "s1",
+            "s3",
+            "s2"
+          ]
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "type": "headlining",
+          "title": "Choose the Best Headline",
+          "content": {
+            "text": "Experts have warned that a portion of a Patagonian glacier is at risk of breaking up. As a result, Argentine authorities have closed roads and evacuated homes. Up to 250,000 cubic metres of ice is in danger of sliding off the Humboldt glacier near the border road with Chile. Experts have been monitoring the glacier closely to detect how fast the ice is melting. They report that the rate has 'significantly increased' recently. But it is impossible to predict when the ice might break away. The warning comes as world leaders meet in New York for the UN climate talks",
+            "highlightSentences": [
+              {
+                "id": "hl1",
+                "text": "Experts have warned that a portion of a Patagonian glacier is at risk of breaking up."
+              },
+              {
+                "id": "hl2",
+                "text": "As a result, Argentine authorities have closed roads and evacuated homes."
+              }
+            ]
+          },
+          "options": [
+            {
+              "id": "opt1",
+              "text": "Scientists report glaciers are advancing"
+            },
+            {
+              "id": "opt2",
+              "text": "Humboldt glacier in danger of collapse"
+            },
+            {
+              "id": "opt3",
+              "text": "Border crossing threatened once more"
+            }
+          ],
+          "correctAnswer": "opt2",
+          "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "vocab": [
+            {
+              "word": "glacier",
+              "definition": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "word": "evacuated",
+              "definition": "Lorem ipsum dolor sit amet"
+            },
+            {
+              "word": "evacuated",
+              "definition": "Lorem ipsum dolor sit amet"
+            },
+            {
+              "word": "evacuated",
+              "definition": "Lorem ipsum dolor sit amet"
+            },
+            {
+              "word": "evacuated",
+              "definition": "Lorem ipsum dolor sit amet"
+            },
+            {
+              "word": "evacuated",
+              "definition": "Lorem ipsum dolor sit amet"
+            },
+            {
+              "word": "evacuated",
+              "definition": "Lorem ipsum dolor sit amet"
+            },
+            {
+              "word": "monitoring",
+              "definition": "Lorem ipsum dolor sit amet."
+            }
+          ]
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "type": "headlining",
+          "title": "Choose the Best Headline",
+          "content": {
+            "text": "Dear all There has been a lot of informal changing or swapping of shifts with other colleagues recently. This has caused a lot of extra work for management and understaffing in the department. Therefore, I would like to introduce a new procedure regarding requests for changes in working hours/shifts: (1) You cannot change shift hours unless you have a valid reason, for example. a dentist/hospital/doctor's appointment. In that case, you need to produce evidence of the appointment. (2) You cannot change shifts with another member or staff without permission from management. Please contact me if you have any questions",
+            "highlightSentences": [
+              {
+                "id": "hl1",
+                "text": "Therefore, I would like to introduce a new procedure regarding requests for changes in working hours/shifts:"
+              },
+              {
+                "id": "hl2",
+                "text": "(2) You cannot change shifts with another member or staff without permission from management."
+              }
+            ]
+          },
+          "options": [
+            {
+              "id": "opt1",
+              "text": "Complaints about taking time off"
+            },
+            {
+              "id": "opt2",
+              "text": "Process for booking holiday time off"
+            },
+            {
+              "id": "opt3",
+              "text": "Instructions for organising work time"
+            }
+          ],
+          "correctAnswer": "opt3",
+          "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "type": "headlining",
+          "title": "Choose the Best Headline",
+          "content": {
+            "text": "You've decided to learn a new language to be able to communicate with people from other countries. So, you go to class and learn some grammar and vocabulary. Everyt hing is going well. Then one day, you're thrown in the deep end and have to talk to real-life native speakers. It's not quite what you were expecting. Your language skills are good but then you realise you're not talking at the right time and it seems they're all shouting. Then, someone interrupts you but no-one else thinks they're rude. Surprise! Welcome to the real wortd. Wouldn't it have been nice to have some kind of warning?",
+            "highlightSentences": [
+              {
+                "id": "hl1",
+                "text": "Then one day, you're thrown in the deep end and have to talk to real-life native speakers."
+              },
+              {
+                "id": "hl2",
+                "text": "Your language skills are good but then you realise you're not talking at the right time and it seems they're all shouting."
+              }
+            ]
+          },
+          "options": [
+            {
+              "id": "opt1",
+              "text": "What you don't learn in language classes"
+            },
+            {
+              "id": "opt2",
+              "text": "How to speak with native speakers"
+            },
+            {
+              "id": "opt3",
+              "text": "How to be polite in your second language"
+            }
+          ],
+          "correctAnswer": "opt1",
+          "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "id": "q26",
+          "number": 26,
+          "type": "headlining",
+          "title": "Choose the Best Headline",
+          "content": {
+            "text": "In a job market with hundreds of applicants for one post, how can you make sure that you stand out? By writing a good CV and cover letter? Not anymore. Nowadays, many job searches happen through vanous agency websites. The problem with these is that they want your information presented in a way that they can process, which means lots of time spent typing. Another change is that you also need to become your own brand with a constant presence, effectively making your printed list of previous employers and skills redundant",
+            "highlightSentences": [
+              {
+                "id": "hl1",
+                "text": "Nowadays, many job searches happen through vanous agency websites."
+              },
+              {
+                "id": "hl2",
+                "text": "Another change is that you also need to become your own brand with a constant presence, effectively making your printed list of previous employers and skills redundant"
+              }
+            ]
+          },
+          "options": [
+            {
+              "id": "opt1",
+              "text": "Writing a good CV in order to get a job"
+            },
+            {
+              "id": "opt2",
+              "text": "Selling yourself to the 21st-century job market"
+            },
+            {
+              "id": "opt3",
+              "text": "Using the internet to look for your perfect job"
+            }
+          ],
+          "correctAnswer": "opt2",
+          "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "spanish": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "indonesian": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "thai": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "type": "comprehen",
+          "title": "Reading Comprehension",
+          "content": {
+            "text": "In today's workplace, many employees fret that their position could be made redundant as a result of employers adopting artificial intelligence (AI), yet there are many reasons that companies may adopt AI, aside from cutting staffing costs. Recent research has found that, while some business leaders are chiefly interested in using AI as a cost-cutting measure, the majority are primarily attracted to AI as a means for increasing efficiency, and thereby gaining a competitive advantage in the market. Other business leaders, meanwhile, were found to express a strong interest in using AI without any specific purpose for doing so. They seemed to want to follow the trend but didn't know exactly how doing so would actually benefit them. Other than fear of redundancy, some workers are resistant to the use of AI because they feel it undermines their professional identity. In roles where expertise is considered of particular importance, workers may feel that the use of AI, due to its ability to rapidly process complex data, diminishes their value to their employer. Nevertheless, despite these concerns, AI seems here to stay within the workplace. For this reason, it is highly advisable for workers to take proactive steps to ensure they can navigate and adapt to the changes it brings. Rather than viewing AI as a threat, they should see it as a tool - one that, for some at least, can lead to professional success."
+          },
+          "questions": [
+            {
+              "id": "q27-1",
+              "title": "According to recent research, why do most business adopt the use of Al?",
+              "options": [
+                {
+                  "id": "a1",
+                  "text": "to outperform their rivals"
+                },
+                {
+                  "id": "a2",
+                  "text": "to simply follow the trend"
+                },
+                {
+                  "id": "a3",
+                  "text": "to reduce their staffing costs"
+                }
+              ],
+              "correctAnswer": "a1",
+              "highlightSentences": [
+                {
+                  "id": "hl1",
+                  "text": "Recent research has found that, while some business leaders are chiefly interested in using AI as a cost-cutting measure, the majority are primarily attracted to AI as a means for increasing efficiency, and thereby gaining a competitive advantage in the market."
+                },
+                {
+                  "id": "hl2",
+                  "text": "yet there are many reasons that companies may adopt AI, aside from cutting staffing costs."
+                }
+              ]
+            },
+            {
+              "id": "q27-2",
+              "title": "What does the writer say workers sometimes think about Al?",
+              "options": [
+                {
+                  "id": "b1",
+                  "text": "It may threaten their status in a company."
+                },
+                {
+                  "id": "b2",
+                  "text": "It might reduce their privacy and data security."
+                },
+                {
+                  "id": "b3",
+                  "text": "It could enhance their expertise in a valuable way."
+                }
+              ],
+              "correctAnswer": "b1",
+              "highlightSentences": [
+                {
+                  "id": "hl1",
+                  "text": "Other than fear of redundancy, some workers are resistant to the use of AI because they feel it undermines their professional identity."
+                },
+                {
+                  "id": "hl2",
+                  "text": "In roles where expertise is considered of particular importance, workers may feel that the use of AI, due to its ability to rapidly process complex data, diminishes their value to their employer."
+                }
+              ]
+            },
+            {
+              "id": "q27-3",
+              "title": "What is the writer's main message?",
+              "options": [
+                {
+                  "id": "c1",
+                  "text": "A positive approach to Ai is likely to be best."
+                },
+                {
+                  "id": "c2",
+                  "text": "AI is unlikely to replace most human workers."
+                },
+                {
+                  "id": "c3",
+                  "text": "Using Al effectively is difficult for some businesses."
+                }
+              ],
+              "correctAnswer": "c1",
+              "highlightSentences": [
+                {
+                  "id": "hl1",
+                  "text": "For this reason, it is highly advisable for workers to take proactive steps to ensure they can navigate and adapt to the changes it brings."
+                },
+                {
+                  "id": "hl2",
+                  "text": "Rather than viewing AI as a threat, they should see it as a tool - one that, for some at least, can lead to professional success."
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "word": "redundant",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "expertise",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "word": "proactive",
+              "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "type": "comprehen",
+          "title": "Reading Comprehension",
+          "content": {
+            "text": "Working from home has become more common in a relatively short space of time and has altered many aspects of life, including the family dynamic. Indeed, working parents are now able to be present at home in a way that would have been impossible a few years ago. The shift in how we work has also highlighted just how much money and time were spent on travelling to and from the family home to the office every day, taking large amounts out of often modest salaries. This has led workers to ask - if it's possible to save a fortune on transport costs and work comfortably, maybe it's also possible to work a four-day week? A shorter working week would of course need to be considered carefully by employers. Interestingly, research has indicated that working in this way, employees would be smarter in how they complete their tasks, with the end result being better and faster output. Those not used to this rapid pace of work would potentially burn out, though, which could lead to more sick days being taken and an overly relaxed company culture being unintentionally developed. A four-day week is, at first sight, appealing for both parties. Before any changes could be implemented, however, experts responsible for some of the many research papers on this subject would need to be consulted. There is also the human side to consider. Deep down, many people are resistant to change and enjoy the interaction with colleagues that a normal working week gives them, so they may ultimately be unwilling to change how they work."
+          },
+          "questions": [
+            {
+              "id": "q28-1",
+              "title": "What has made employees push for more changes in how they work?",
+              "options": [
+                {
+                  "id": "a1",
+                  "text": "The fact that salaries are lower than they used to be"
+                },
+                {
+                  "id": "a2",
+                  "text": "The fact that more and more people are starting families"
+                },
+                {
+                  "id": "a3",
+                  "text": "The fact that they no longer need to commute"
+                }
+              ],
+              "correctAnswer": "a3",
+              "highlightSentences": [
+                {
+                  "id": "hl1",
+                  "text": "The shift in how we work has also highlighted just how much money and time were spent on travelling to and from the family home to the office every day, taking large amounts out of often modest salaries."
+                },
+                {
+                  "id": "hl2",
+                  "text": "This has led workers to ask - if it's possible to save a fortune on transport costs and work comfortably, maybe it's also possible to work a four-day week?"
+                }
+              ]
+            },
+            {
+              "id": "q28-2",
+              "title": "According to the text, how could a shorter working week benefit employers?",
+              "options": [
+                {
+                  "id": "b1",
+                  "text": "The problem of absenteeism would be tackled"
+                },
+                {
+                  "id": "b2",
+                  "text": "Employees would be able to improve their efficiency"
+                },
+                {
+                  "id": "b3",
+                  "text": "The work atmosphere would be improved"
+                }
+              ],
+              "correctAnswer": "b2",
+              "highlightSentences": [
+                {
+                  "id": "hl1",
+                  "text": "Interestingly, research has indicated that working in this way, employees would be smarter in how they complete their tasks, with the end result being better and faster output."
+                },
+                {
+                  "id": "hl2",
+                  "text": "A four-day week is, at first sight, appealing for both parties."
+                }
+              ]
+            },
+            {
+              "id": "q28-3",
+              "title": "What is the writer's overall viewpoint on four-day weeks?",
+              "options": [
+                {
+                  "id": "c1",
+                  "text": "They should not be implemented without proper consideration"
+                },
+                {
+                  "id": "c2",
+                  "text": "They will prove deeply unpopular among employers"
+                },
+                {
+                  "id": "c3",
+                  "text": "They are beneficial for employee health"
+                }
+              ],
+              "correctAnswer": "c1",
+              "highlightSentences": [
+                {
+                  "id": "hl1",
+                  "text": "A shorter working week would of course need to be considered carefully by employers."
+                },
+                {
+                  "id": "hl2",
+                  "text": "Before any changes could be implemented, however, experts responsible for some of the many research papers on this subject would need to be consulted."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "type": "comprehen",
+          "title": "Reading Comprehension",
+          "content": {
+            "text": "In today's workplace, many employees fret that their position could be made redundant as a result of employers adopting artificial intelligence (AI), yet there are many reasons that companies may adopt AI, aside from cutting staffing costs. Recent research has found that, while some business leaders are chiefly interested in using AI as a cost-cutting measure, the majority are primarily attracted to AI as a means for increasing efficiency, and thereby gaining a competitive advantage in the market. Other business leaders, meanwhile, were found to express a strong interest in using AI without any specific purpose for doing so. They seemed to want to follow the trend but didn't know exactly how doing so would actually benefit them. Other than fear of redundancy, some workers are resistant to the use of AI because they feel it undermines their professional identity. In roles where expertise is considered of particular importance, workers may feel that the use of AI, due to its ability to rapidly process complex data, diminishes their value to their employer. Nevertheless, despite these concerns, AI seems here to stay within the workplace. For this reason, it is highly advisable for workers to take proactive steps to ensure they can navigate and adapt to the changes it brings. Rather than viewing AI as a threat, they should see it as a tool - one that, for some at least, can lead to professional success."
+          },
+          "questions": [
+            {
+              "id": "q29-1",
+              "title": "According to recent research, why do most business adopt the use of Al?",
+              "options": [
+                {
+                  "id": "a1",
+                  "text": "to outperform their rivals"
+                },
+                {
+                  "id": "a2",
+                  "text": "to simply follow the trend"
+                },
+                {
+                  "id": "a3",
+                  "text": "to reduce their staffing costs"
+                }
+              ],
+              "correctAnswer": "a1",
+              "highlightSentences": [
+                {
+                  "id": "hl1",
+                  "text": "Recent research has found that, while some business leaders are chiefly interested in using AI as a cost-cutting measure, the majority are primarily attracted to AI as a means for increasing efficiency, and thereby gaining a competitive advantage in the market."
+                },
+                {
+                  "id": "hl2",
+                  "text": "yet there are many reasons that companies may adopt AI, aside from cutting staffing costs."
+                }
+              ]
+            },
+            {
+              "id": "q29-2",
+              "title": "What does the writer say workers sometimes think about Al?",
+              "options": [
+                {
+                  "id": "b1",
+                  "text": "It may threaten their status in a company."
+                },
+                {
+                  "id": "b2",
+                  "text": "It might reduce their privacy and data security."
+                },
+                {
+                  "id": "b3",
+                  "text": "It could enhance their expertise in a valuable way."
+                }
+              ],
+              "correctAnswer": "b1",
+              "highlightSentences": [
+                {
+                  "id": "hl1",
+                  "text": "Other than fear of redundancy, some workers are resistant to the use of AI because they feel it undermines their professional identity."
+                },
+                {
+                  "id": "hl2",
+                  "text": "In roles where expertise is considered of particular importance, workers may feel that the use of AI, due to its ability to rapidly process complex data, diminishes their value to their employer."
+                }
+              ]
+            },
+            {
+              "id": "q29-3",
+              "title": "What is the writer's main message?",
+              "options": [
+                {
+                  "id": "c1",
+                  "text": "A positive approach to Ai is likely to be best."
+                },
+                {
+                  "id": "c2",
+                  "text": "AI is unlikely to replace most human workers."
+                },
+                {
+                  "id": "c3",
+                  "text": "Using Al effectively is difficult for some businesses."
+                }
+              ],
+              "correctAnswer": "c1",
+              "highlightSentences": [
+                {
+                  "id": "hl1",
+                  "text": "For this reason, it is highly advisable for workers to take proactive steps to ensure they can navigate and adapt to the changes it brings."
+                },
+                {
+                  "id": "hl2",
+                  "text": "Rather than viewing AI as a threat, they should see it as a tool - one that, for some at least, can lead to professional success."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
